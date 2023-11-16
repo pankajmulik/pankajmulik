@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pankajmulik
-- 👀 I’m interested in programming learning new technologies.
-- 🌱 I’m currently learning java full stack,HTML,CSS,SQL.
-- 💞️ I’m looking to collaborate on job searching
+- 👀 I’m interested in software development.
+- 💞️ 
 - 📫 How to reach me--  mail- pankajmulik1997@gmail.com
 
 <!---
