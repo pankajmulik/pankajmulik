@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankajmulik
 - 👀 I’m interested in software development.
-- 💞️ 
+- 💞️Fullstack Java development, React, Javascript
 - 📫 How to reach me--  mail- pankajmulik1997@gmail.com
 
 <!---
